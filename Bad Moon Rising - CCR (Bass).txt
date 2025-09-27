@@ -8,8 +8,7 @@ $ChartBy: Ray Vernagus
     
 IN:
  // Quick Folk Four
- // Starts with guitar only
- 1 5_4 1/*band in*/ 1
+ 1/*guitar only */ 5_4 1/*band in*/ 1
 V:
   ||: 1 5_4 1 1
   1 5_4 1 1
