@@ -3,12 +3,13 @@ Key: C
 Meter: 4/4
 Tempo: 149 bpm
 $Artist: Blink-182
+$Instrument: Bass
 $ChartBy: Ray Vernagus
     
 INTRO:
   5 4
-  ||: 1 1sus 5 x...._4...
-  1 1sus 5 x...._4...
+  ||: 1 1sus 5 X...._4... /* Chug 5, Play 3 */
+  1 1sus 5 X...._4... /* Chug 5, Play 3 */
   1 5 4 5
   1 5 4 5
 CHORUS:
