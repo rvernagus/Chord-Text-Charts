@@ -1,0 +1,29 @@
+Title: Fortunate Son
+Key: G
+Meter: 4/4
+Tempo: 135 bpm
+$Artist: CCR
+$Instrument: Bass
+$ChartBy: Ray Vernagus
+    
+INTRO:
+  1 1
+  1 b7/1 4/1 1
+  1 b7/1 4/1 1
+VERSE:
+
+  ||: 1 b7 4 1
+  1 b7 4 1
+CHORUS:
+  1 5 4 1
+  1 5 4 1 :||
+BRIDGE:
+  1 1 1 1
+  1 1 1 1
+VERSE:
+  1 b7 4 1
+  1 b7 4 1
+CHORUS:
+  
+  ||: 1 5 4 1
+  1 5 4 1 :||
