@@ -1,0 +1,30 @@
+Title: Down On The Corner
+Key: C
+Meter: 4/4
+Tempo: 105 bpm
+$Artist: CCR
+$Instrument: Bass
+$ChartBy: Ray Vernagus
+    
+RIFF:
+  1._X._6._5. 1._X._1._6. 5._X._5._7. 1_1
+IN:
+  1 5_1 1 5_1
+  4 1_5 1 5_1
+V:
+  ||: 1 5_1 1 5_1
+  4 1_5 1 5_1
+CH:
+  4_1 5_1 4_1 5_1 :||
+INST:
+  1 5_1 1 5_1
+  4 1_5 1 5_1
+CH:
+  4_1 5_1 4_1 5_1
+INST:
+  1 5_1 1 5_1
+V:
+  1 5_1 1 5_1
+  4 1_5 1 5_1
+CH:
+  ||: 4_1 5_1 4_1 5_1 :||{3}
