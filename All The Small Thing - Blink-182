@@ -1,0 +1,29 @@
+Title: All The Small Things
+Key: C
+Meter: 4/4
+Tempo: 149 bpm
+$Artist: Blink-182
+$ChartBy: Ray Vernagus
+    
+INTRO:
+  5 4
+  ||: 1 1sus 5 x...._4...
+  1 1sus 5 x...._4...
+  1 5 4 5
+  1 5 4 5
+CHORUS:
+  1 1 5 4
+  1 1 5 4
+  1 1 5 4 :||
+BRIDGE:
+  // Power Chords on bass
+  <1>=1 4 5
+  <1>=1 4 5
+  <1>=1 4 5
+  1 1 4 5
+CHORUS:
+  1 1 5 4
+  1 1 5 4
+  1 1 5 4..._4... /* Only hit third note */
+  1 1 5 4..._4...
+  4..._4... <1>=1=1
