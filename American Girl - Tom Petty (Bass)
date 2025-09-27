@@ -1,0 +1,36 @@
+Title: American Girl
+Key: D
+Meter: 4/4
+Tempo: 120 bpm
+$Artist: Tom Petty
+$Instrument: Bass
+$ChartBy: Ray Vernagus
+    
+IN:
+  ||: 1/*Guitar+Drums*/ 1 1 1 :||
+  ||: 1/*Add Bass*/ 1 1 1 :||
+V:
+  1 2 4 5
+  1 2 4 5
+PC:
+  5 1 4 2-
+  5 5 5 5
+C:
+  4 5 1 6-
+  4 5 1 1
+V:
+  1 2 4 5
+  1 2 4 5
+PC:
+  5 1 4 2-
+  5 5 5 5
+C:
+  4 5 1 6-
+  4 5 1 1
+B:
+  // Riff
+  4_4_4_X X_4_#4_5_5 1._X...
+  4_4_4_X X_4_#4_5_5 5._X...
+O:
+  <1>=1 1 1
+  ||: 1 2 4 5 :||{6}
