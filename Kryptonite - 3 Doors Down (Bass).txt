@@ -1,0 +1,36 @@
+Title: Kryptonie
+Key: B
+Meter: 4/4
+Tempo: 100 bpm
+$Artist: 3 Doors Down
+$Instrument: Bass
+$ChartBy: Ray Vernagus
+    
+I:
+  // Guitar only for then all in
+  ||: 1- b6_b7 1- b6_b7 :||
+V:
+  ||: 1- b6_b7 1- b6_b7 :||
+INS:
+  1- b6_b7 1- b6_b7
+V:
+  ||: 1- b6_b7 1- b6_b7 :||
+C:
+  ||: 1- b6_b7 1- 4**5_5**5 :||
+INS:
+  1- b6_b7 1- b6_b7
+V:
+  ||: 1- b6_b7 1- b6_b7 :||
+C:
+  ||: 1- b6_b7 1- 4**5_5**5 :||
+S:
+  ||: 1- b6_b7 1- 4**5_5**5 :||
+B:
+  1- b7_b6 1 b7_b6
+V:
+  ||: 1- b7_b6 1 b7_b6 :||
+C:
+  ||: 1- b6_b7 1- 4**5_5**5 :||
+O:
+  ||: 1- b6_b7 1- 4**5_5**5 :||
+  <1->=1-
