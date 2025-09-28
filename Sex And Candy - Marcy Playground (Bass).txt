@@ -1,0 +1,20 @@
+Title: Sex And Candy
+Key: B
+Meter: 4/4
+Tempo: 80 bpm
+$Artist: Marcy Playground
+$Instrument: Bass
+$ChartBy: Ray Vernagus
+    
+V:
+  ||: 1 b6_5 1 b6_5
+  1 b6_5 1 b6_5.... 5..._X
+C:
+  1_b6 b7_X 1_b6 b7_X
+  1_b6 b7
+  b3_b7 1_b6 b3_b7 1_b6.... 5...._5.. :||
+O:
+  X 1_b6 b7_X 1_b6 b7_X
+  1_b6 b7
+  b3_b7 1_b6 b3_b7 1_b6
+  b3_b7 1_b6 <b6>=b6
