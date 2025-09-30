@@ -1,0 +1,22 @@
+Title: What I Got
+Key: D
+Meter: 4/4
+Tempo: 96 bpm
+$Artist: Sublime
+$ChartBy: Ray Vernagus
+
+IN:
+  // Drums start
+  ||: 1_5._4 1_5._4 1_5._4 1_5._4 :||{4}
+I:
+  X X X X
+V:
+  ||: 1_5._4 1_5._4 1_5._4 1_5._4 :||{3}
+I:
+  X X X X
+V:
+  1_5._4 1_5._4 1_5._4 1_5._4
+  X X 1_5._4 1_5._4
+  1_5._4 1_5._4 X X
+B:
+  ||: 1_5._4 1_5._4 1_5._4 1_5._4 :||{4}
